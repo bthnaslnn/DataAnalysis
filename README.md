@@ -1,2 +1,2 @@
 # DataAnalysis
-Data PreProccesing with Pandas for Spotify datas
+Data PreProccesing with Pandas for Spotify data.
